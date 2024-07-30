@@ -261,3 +261,4 @@ function getAppContainerElement() {
 	}
 }
 })(typeof exports != 'undefined' ? exports : window);
+console.warn("Kick Ass bypass by Enderman-brewer")
