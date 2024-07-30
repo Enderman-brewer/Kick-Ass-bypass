@@ -18,4 +18,4 @@ Here's how you do it:
 3. Go to any website
 4. Click the bookmark
 5. Break the site with `up`, `left`, `right` and `space`
-6. Press `ESC` to deload the game, or refresh the site to revert to origenal site.
+6. Press `ESC` to deload the game, or refresh the site to revert to original site.
