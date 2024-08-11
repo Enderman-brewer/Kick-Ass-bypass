@@ -13,7 +13,7 @@ javascript:var KICKASSVERSION='2.0';var s = document.createElement('script');s.t
 
 But the issue is that `hi.kickassapp.com/kickass.js` is not available everywhere like public networks, so I have created a bypass by putting the whole script in the bookmmarklet.
 Here's how you do it:
-1. Paste the contents of [kickass.js](/Kick-Ass-bypass/kickass.js) to [this site using default settings](https://chriszarate.github.io/bookmarkleter/)
+1. Paste the contents of [kickass.js](/kickass.js) to [this site using default settings](https://chriszarate.github.io/bookmarkleter/)
 2. Create the bookmarklet and put it in your bookmarks bar
 3. Go to any website
 4. Click the bookmark
